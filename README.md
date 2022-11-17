@@ -12,5 +12,7 @@ Note:
 
 Solutions are coded in MySQL
 
-![image](https://user-images.githubusercontent.com/78766553/202337360-d61844ef-88af-443d-9887-0fdba29ca264.png)
+ER Diagram - 
+![image](https://user-images.githubusercontent.com/78766553/202337737-0d01496a-3546-4ba1-b1d3-e89e414bf31a.png)
+
 
