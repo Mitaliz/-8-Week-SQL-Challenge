@@ -11,3 +11,6 @@ MD files which contains SQL queries answering the respective challenge questions
 Note:
 
 Solutions are coded in MySQL
+
+![image](https://user-images.githubusercontent.com/78766553/202337360-d61844ef-88af-443d-9887-0fdba29ca264.png)
+
