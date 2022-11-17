@@ -12,7 +12,3 @@ Note:
 
 Solutions are coded in MySQL
 
-ER Diagram - 
-![image](https://user-images.githubusercontent.com/78766553/202337737-0d01496a-3546-4ba1-b1d3-e89e414bf31a.png)
-
-
