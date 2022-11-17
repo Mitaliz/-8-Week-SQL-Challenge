@@ -219,18 +219,3 @@ AND order_date >=join_date
 GROUP BY s.customer_id
 ORDER BY s.customer_id;
 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-8-Week-SQL-Challenge/Case Study # 1 - Danny's Diner at main · manaswikamila05/8-Week-SQL-Challenge8-Week-SQL-Challenge/Case Study # 1 - Danny's Diner at main · manaswikamila05/8-Week-SQL-Challenge8-Week-SQL-Challenge/Danny's Diner Solution.sql at main · manaswikamila05/8-Week-SQL-Challenge
